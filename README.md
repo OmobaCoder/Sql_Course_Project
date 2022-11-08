@@ -2,11 +2,11 @@
 
 I am Prince a Data Analyst. I really enjoy turning raw data into actionable insight to aid decision making process of an organization. You can check me out on LinkedIn at https://www.linkedin.com/in/prince-ogwu/ .
 
-Case Study:
+- Case Study:
 
 The Maven Movies' company insurance policy is up for renewal and the insurance providing company’s underwriters need some updated information from it before they will issue a new insurance policy.
 
-Objective:
+- Objective:
 
 Leveraging SQL skills to extract and analyze data from various tables in the Maven Movies database for the purpose of answering the insurance underwriters’ questions. Each question can be answered by querying just one table. Part of the analysis task is figuring out which table to be used.
 
