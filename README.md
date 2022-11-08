@@ -28,6 +28,7 @@ We are interested in having you put payment monitoring systems and maximum payme
 
 We would like to better understand what your customer base looks like. Please provide a list of all customer identification values, with a count of rentals they have made all-time, with your highest volume customers at the top of the list.
 
-Running the project:
+-- Running the project:
 
-1 -- MySQL Workbench or similar is needed. 2 -- Use the "create_mavenmovies.sql" database file to read data to the project script.
+1 -- MySQL Workbench or similar is needed.
+2 -- Use the "create_mavenmovies.sql" database file to read data to the project script.
