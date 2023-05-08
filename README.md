@@ -1,4 +1,5 @@
 # Analyzing Maven Movies Database.
+![image](https://user-images.githubusercontent.com/107421646/236910036-583f02f9-cd3b-4313-982d-6e2dbb90fc76.png)
 
 
 ## Case Study:
